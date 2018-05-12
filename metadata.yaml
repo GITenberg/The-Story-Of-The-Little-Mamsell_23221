@@ -1,0 +1,32 @@
+_repo: The-Story-Of-The-Little-Mamsell_23221
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Emerson, Miss E. C.
+    gutenberg_agent_id: '25761'
+    url: http://www.gutenberg.org/2009/agents/25761
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Niese, Charlotte
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '25762'
+    url: http://www.gutenberg.org/2009/agents/25762
+description: ''
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+title: The Story of the Little Mamsell
+url: http://www.gutenberg.org/ebooks/23221
