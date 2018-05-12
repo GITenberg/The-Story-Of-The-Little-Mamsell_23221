@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25762'
     url: http://www.gutenberg.org/2009/agents/25762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23221#The-Story-Of-The-Little-Mamsell
 gutenberg_issued: '2007-10-27'
 gutenberg_type: Text
 identifiers:
